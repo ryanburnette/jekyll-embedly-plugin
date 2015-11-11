@@ -111,7 +111,7 @@ module JekyllEmbedlyPlugin
 
     def compose(json_rep)
       type     = json_rep["type"]
-      provider = json_rep["provider_name"].downcase
+      provider = json_rep["provider_name"].to_s.downcase
 
       if type    == "photo"
         url       = json_rep["url"]
