@@ -4,6 +4,9 @@ Work in progress.
 
 ## History
 
+* v0.3.1
+  * Fix issue in case provide_name isn't present
+
 * v0.3.0
   * Added caching
 

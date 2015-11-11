@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = "jekyll-embedly-plugin"
-  s.version     = "0.3.0"
-  s.date        = "2015-01-08"
+  s.version     = "0.3.1"
+  s.date        = "2015-11-11"
   s.summary     = "An embed.ly Liquid tag for Jekyll."
   s.authors     = ["Ryan Burnette"]
   s.email       = "ryan.burnette@gmail.com"
